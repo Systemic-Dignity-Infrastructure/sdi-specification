@@ -24,11 +24,11 @@ The theoretical justification is articulated across five sequential working pape
 
 | Paper | Title | Core Contribution |
 |:------|:------|:------------------|
-| [WP1](04_working_papers/wp1_stewardship_model/) | Foundational Theory | MDI tower architecture; Efficiency Surplus Model |
-| [WP2](04_working_papers/wp2_surplus_capacity/) | Structural Misalignment & Surplus Capacity | National Stability Utility; Auditable Infrastructure |
-| [WP3](04_working_papers/wp3_los_angeles_pipeline/) | Los Angeles Metropolitan Stabilization | Full intake pipeline; Phase Zero; Singular Prototype Threshold |
-| [WP4](04_working_papers/wp4_human_layer/) | Relational Dignity Infrastructure | Pod Steward model; RDI Production Conditions; Verification Metrics |
-| [WP5](04_working_papers/wp5_economic_dignity/) | Economic Dignity Infrastructure | Return Deficit; Cooperative Reintegration; Tenancy Bridge Guarantee |
+| [WP1](../04_working_papers/wp1_stewardship_model/) | Foundational Theory | MDI tower architecture; Efficiency Surplus Model |
+| [WP2](../04_working_papers/wp2_surplus_capacity/) | Structural Misalignment & Surplus Capacity | National Stability Utility; Auditable Infrastructure |
+| [WP3](../04_working_papers/wp3_los_angeles_pipeline/) | Los Angeles Metropolitan Stabilization | Full intake pipeline; Phase Zero; Singular Prototype Threshold |
+| [WP4](../04_working_papers/wp4_human_layer/) | Relational Dignity Infrastructure | Pod Steward model; RDI Production Conditions; Verification Metrics |
+| [WP5](../04_working_papers/wp5_economic_dignity/) | Economic Dignity Infrastructure | Return Deficit; Cooperative Reintegration; Tenancy Bridge Guarantee |
 
 ### Intended Audience
 
@@ -45,16 +45,16 @@ This repository is designed for:
 
 | Directory | Contents |
 |:----------|:---------|
-| [00_executive_summary](00_executive_summary/) | This document |
-| [01_vision](01_vision/) | The Uncompromising Engineering Standard |
-| [02_architecture](02_architecture/) | System Context and Repository Architecture diagrams |
-| [03_specifications](03_specifications/) | Municipal Pilot Specifications (non-negotiable gating criteria) |
-| [04_working_papers](04_working_papers/) | The five-paper theoretical arc (LaTeX sources, bibliographies, compiled PDFs) |
-| [05_reference_models](05_reference_models/) | Assumptions Register, Constraints Register, Risk Register |
-| [06_verification](06_verification/) | Requirements Traceability Matrix, Verification Matrix |
-| [07_governance](07_governance/) | Project governance and split-authority protocol |
-| [08_contribution_guide](08_contribution_guide/) | Contributor onboarding and domain-specific task identification |
-| [09_glossary](09_glossary/) | Systemic Dignity Glossary, Concept Index |
+| [00_executive_summary](../00_executive_summary/) | This document |
+| [01_vision](../01_vision/) | The Uncompromising Engineering Standard |
+| [02_architecture](../02_architecture/) | System Context and Repository Architecture diagrams |
+| [03_specifications](../03_specifications/) | Municipal Pilot Specifications (non-negotiable gating criteria) |
+| [04_working_papers](../04_working_papers/) | The five-paper theoretical arc (LaTeX sources, bibliographies, compiled PDFs) |
+| [05_reference_models](../05_reference_models/) | Assumptions Register, Constraints Register, Risk Register |
+| [06_verification](../06_verification/) | Requirements Traceability Matrix, Verification Matrix |
+| [07_governance](../07_governance/) | Project governance and split-authority protocol |
+| [08_contribution_guide](../08_contribution_guide/) | Contributor onboarding and domain-specific task identification |
+| [09_glossary](../09_glossary/) | Systemic Dignity Glossary, Concept Index |
 
 ### Implementation Philosophy
 
