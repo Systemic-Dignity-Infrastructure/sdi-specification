@@ -37,4 +37,4 @@ This paper is the second working paper in the Material Dignity Infrastructure se
 - **WP2 (this paper)**: Structural Misalignment and Surplus Capacity (SSRN 6211658)
 - **WP3**: Los Angeles Metropolitan Stabilization (SSRN 6579600)
 - **WP4**: Relational Dignity Infrastructure (SSRN 6881539)
-- **WP5**: Economic Dignity Infrastructure (UNPUBLISHED)
+- **WP5**: Economic Dignity Infrastructure (SSRN 7177118)
