@@ -39,4 +39,4 @@ This paper is the third working paper in the Material Dignity Infrastructure ser
 - **WP3 (this paper)**: Los Angeles Metropolitan Stabilization (SSRN 6579600)
 - **WP4**: Relational Dignity Infrastructure (SSRN 6881539)
 - **WP5**: Economic Dignity Infrastructure (SSRN 7177118)
-- **WP6**: Scale and Constraints (SSRN 7922415)
+- **WP6**: Scale and Constraints (SSRN TBD)
