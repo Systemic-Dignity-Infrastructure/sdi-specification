@@ -63,11 +63,11 @@ SDI operates as an uncompromising engineering standard. Biological absolutes (me
 
 ### Current Maturity
 
-The framework is at the **Singular Prototype Threshold** stage. The six-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a single prototype facility (One California Plaza, Los Angeles) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
+The framework is at the **Singular Prototype Threshold** stage. The six-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a three-pod Singular Prototype (approx. 185,000 sq ft) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
 
 ### Roadmap
 
 1. **v1.0** — Theoretical specification complete (current)
 2. **v1.1** — Financial modeling and capitation rate analysis (Working Paper 7)
-3. **v2.0** — Singular Prototype deployment and 365-day verification cycle
-4. **v3.0** — Network expansion authorization (contingent on prototype verification)
+3. **v2.0** — Singular Prototype deployment (three-pod optimum) and 365-day verification cycle
+4. **v3.0** — Phase 2 Mega-Tower deployment (e.g., One California Plaza) and network expansion authorization
