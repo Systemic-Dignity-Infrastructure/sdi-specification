@@ -6,17 +6,17 @@
 
 ### The Problem
 
-The United States spent approximately $24 billion on homelessness programs between 2019 and 2024 while the unsheltered population expanded through every funding cycle. The California State Auditor documented this paradox in 2024: capital volume does not resolve structural failure. The dominant approach treats homelessness as a resource deficiency. The Systemic Dignity Infrastructure (SDI) treats it as a systems engineering failure — a sequential pipeline collapse that no volume of funding can repair without architectural correction.
+The United States spent approximately $24 billion on homelessness programs between 2019 and 2024 while the unsheltered population expanded through every funding cycle. The California State Auditor documented this paradox in 2024: capital volume does not resolve structural failure. The dominant approach treats homelessness as a resource deficiency. The Systemic Dignity Infrastructure (SDI) treats it as a systems engineering failure. It operates as a sequential pipeline collapse that no volume of funding can repair without architectural correction.
 
 ### The Architecture
 
 SDI is a three-layer, sequentially dependent engineering specification. The layers cannot be deployed independently. Each layer produces the preconditions required by the next.
 
-**Layer 1: Material Dignity Infrastructure (MDI)** converts surplus commercial real estate into biologically secure stabilization environments via master lease arrangements. It eliminates the multi-year construction pipeline by activating existing vacant capacity. Phase Zero biological stabilization (shelter, nutrition, hygiene) must be achieved within 72 hours of intake.
+**Layer 1: Material Dignity Infrastructure (MDI)** converts surplus commercial real estate into biologically secure stabilization environments via master lease arrangements. It eliminates the multi-year construction pipeline by activating existing vacant capacity, treating time as a physical constraint rather than an administrative variable. Phase Zero biological stabilization (shelter, nutrition, hygiene) must be achieved within 72 hours of intake. If a resident lacks cognitive capacity due to acute psychiatric crisis, this 72-hour window functions as a secure medical airlock under state legal authority before transitioning to voluntary liberty.
 
 **Layer 2: Relational Dignity Infrastructure (RDI)** provides the social architecture required for identity restoration. Dunbar-scale cohorts (groups of approximately seven residents) are governed by trained Pod Stewards at a 1:7 ratio. This layer closes the Housing First retention gap by preserving relational bonds through the housing transition rather than severing them at intake.
 
-**Layer 3: Economic Dignity Infrastructure (EDI)** establishes cooperative micro-economies to bridge the Return Deficit — the wage and credentialing gap that prevents formerly homeless individuals from sustaining market-rate tenancy. The Tenancy Bridge Guarantee commits Medicaid waiver funding to underwrite the first twelve months of independent market-rate housing for graduating residents.
+**Layer 3: Economic Dignity Infrastructure (EDI)** establishes cooperative micro-economies to bridge the Return Deficit, defined as the wage and credentialing gap that prevents formerly homeless individuals from sustaining market-rate tenancy. The Tenancy Bridge Guarantee commits Medicaid waiver funding to underwrite the first twelve months of independent market-rate housing for graduating residents. A zero-knowledge billing firewall secures this capital by cryptographically matching the clinical identity against physical occupancy telemetry without violating optical privacy.
 
 ### The Six-Paper Arc
 
