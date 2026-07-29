@@ -39,6 +39,7 @@ sdi-specification/
 ├── 07_governance/           Project governance and split-authority protocol
 ├── 08_contribution_guide/   Contributor onboarding and domain-specific tasks
 ├── 09_glossary/             Systemic Dignity Glossary and Concept Index
+├── 10_capital_architecture/ Philanthropic pipeline and zero-trust capital governance
 ├── templates/               Shared LaTeX preamble and metadata
 ├── Makefile                 Automated paper compilation system
 ├── CITATION.cff             Machine-readable citation metadata
@@ -59,6 +60,7 @@ sdi-specification/
 | Evaluate pilot feasibility | [Pilot Specifications](03_specifications/PILOT-SPECIFICATIONS.md) |
 | Audit engineering claims | [Verification Matrix](06_verification/VERIFICATION_MATRIX.md) |
 | Review assumptions and risks | [Reference Models](05_reference_models/) |
+| Understand the capital pipeline | [Capital Architecture](10_capital_architecture/) |
 | Contribute to the project | [Contribution Guide](08_contribution_guide/CONTRIBUTING.md) |
 | Cite this work | [CITATION.cff](CITATION.cff) |
 
