@@ -19,3 +19,15 @@ The second defense mandates aggressive data ephemerality and anti-scraper crypto
 The third defense mandates decentralized asset ownership. If a central corporation owns the physical footprint it creates a monopoly on survival. The physical real estate must remain legally severed from the global software team through localized community land trusts. An authoritarian takeover requires fighting thousands of localized legal battles rather than seizing a single central entity.
 
 The final defense guarantees the absolute right of exit. The ALMU locks from the outside to protect the resident from the street but it always opens from the inside to protect the resident from the system. The architecture operates without behavioral contingencies or coercive treatment mandates. The resident owes the system nothing and remains free to exit the physical structure at any moment.
+
+## Structural Liberty Defenses
+
+The architecture cannot rely on the goodwill of local operators. To structurally eliminate the capacity for abuse, the governance model deploys four absolute liberty defenses.
+
+First, the system enforces the unconditional baseline. The physical lease remains permanently severed from clinical or behavioral milestones. A local operator cannot evict a resident for failing a sobriety test or refusing therapy. Eviction requires verified physical assault or kinetic destruction of the capital asset.
+
+Second, the system mandates anonymous cryptographic credentials. The physical door lock operates via an untethered token rather than a biometric scanner. The hardware does not register identity. It strictly verifies the credential. A local operator cannot stockpile biometric data.
+
+Third, the system enforces cryptographic lockout protection. A local operator cannot manually override a door lock or revoke a credential without triggering a systemic audit on the global node. The global node requires verified physical justification from the telemetry to authorize an override. This strips the local administrator of unilateral punitive power.
+
+Finally, the capital model enforces an economic graduation mandate. The system cannot profit from static warehousing. The financial viability of the infrastructure relies entirely on the velocity of transition. The venture capital funds a bridge rather than a terminal destination.
