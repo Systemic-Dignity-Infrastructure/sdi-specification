@@ -49,6 +49,7 @@ flowchart LR
     WP --> WP3["WP3: LA Pipeline"]
     WP --> WP4["WP4: Human Layer"]
     WP --> WP5["WP5: Economic Dignity"]
+    WP --> WP6["WP6: Singular Prototype"]
 
     REF --> ASM["Assumptions Register"]
     REF --> CST["Constraints Register"]

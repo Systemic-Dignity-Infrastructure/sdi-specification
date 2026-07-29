@@ -18,9 +18,9 @@ SDI is a three-layer, sequentially dependent engineering specification. The laye
 
 **Layer 3: Economic Dignity Infrastructure (EDI)** establishes cooperative micro-economies to bridge the Return Deficit — the wage and credentialing gap that prevents formerly homeless individuals from sustaining market-rate tenancy. The Tenancy Bridge Guarantee commits Medicaid waiver funding to underwrite the first twelve months of independent market-rate housing for graduating residents.
 
-### The Five-Paper Arc
+### The Six-Paper Arc
 
-The theoretical justification is articulated across five sequential working papers:
+The theoretical justification is articulated across six sequential working papers:
 
 | Paper | Title | Core Contribution |
 |:------|:------|:------------------|
@@ -29,6 +29,7 @@ The theoretical justification is articulated across five sequential working pape
 | [WP3](../04_working_papers/wp3_los_angeles_pipeline/) | Los Angeles Metropolitan Stabilization | Full intake pipeline; Phase Zero; Singular Prototype Threshold |
 | [WP4](../04_working_papers/wp4_human_layer/) | Relational Dignity Infrastructure | Pod Steward model; RDI Production Conditions; Verification Metrics |
 | [WP5](../04_working_papers/wp5_economic_dignity/) | Economic Dignity Infrastructure | Return Deficit; Cooperative Reintegration; Tenancy Bridge Guarantee |
+| [WP6](../04_working_papers/wp6_singular_prototype/) | The Singular Prototype | Dunbar cognitive limit; 85K sq ft physical plant floor; scaling economics |
 
 ### Intended Audience
 
@@ -49,7 +50,7 @@ This repository is designed for:
 | [01_vision](../01_vision/) | The Uncompromising Engineering Standard |
 | [02_architecture](../02_architecture/) | System Context and Repository Architecture diagrams |
 | [03_specifications](../03_specifications/) | Municipal Pilot Specifications (non-negotiable gating criteria) |
-| [04_working_papers](../04_working_papers/) | The five-paper theoretical arc (LaTeX sources, bibliographies, compiled PDFs) |
+| [04_working_papers](../04_working_papers/) | The six-paper theoretical arc (LaTeX sources, bibliographies, compiled PDFs) |
 | [05_reference_models](../05_reference_models/) | Assumptions Register, Constraints Register, Risk Register |
 | [06_verification](../06_verification/) | Requirements Traceability Matrix, Verification Matrix |
 | [07_governance](../07_governance/) | Project governance and split-authority protocol |
@@ -62,11 +63,11 @@ SDI operates as an uncompromising engineering standard. Biological absolutes (me
 
 ### Current Maturity
 
-The framework is at the **Singular Prototype Threshold** stage. The five-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a single prototype facility (One California Plaza, Los Angeles) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
+The framework is at the **Singular Prototype Threshold** stage. The six-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a single prototype facility (One California Plaza, Los Angeles) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
 
 ### Roadmap
 
 1. **v1.0** — Theoretical specification complete (current)
-2. **v1.1** — Financial modeling and capitation rate analysis (Working Paper 6)
+2. **v1.1** — Financial modeling and capitation rate analysis (Working Paper 7)
 3. **v2.0** — Singular Prototype deployment and 365-day verification cycle
 4. **v3.0** — Network expansion authorization (contingent on prototype verification)
