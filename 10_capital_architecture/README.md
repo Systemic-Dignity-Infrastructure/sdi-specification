@@ -8,6 +8,6 @@ Centralized trust inevitably breeds ghost assets. A ghost asset exists as a data
 
 The Systemic Dignity Infrastructure replaces human trust with physical telemetry. It operates the Singular Prototype as a venture gamble. A private capital injection functions as a high-risk test designed to prove a biological baseline before scaling. 
 
-Open-source bookkeeping merges with zero-trust physical tracking. A globally isolated software team monitors binary data for every single Asset Limited Modular Unit. They track if the room draws power and if the digital door lock cycles. The remote team remains physically blind to the identities of the residents. They process only the binary reality of physical occupation. A local operator cannot falsify the continuous municipal draw of electricity and water across an entire building.
+Open-source bookkeeping merges with zero-trust physical tracking. A globally isolated software team monitors binary data for every single Asset Limited Modular Unit. They track if the room draws power and if the digital door lock cycles. The remote team remains physically blind to the identities of the residents. They process only the binary reality of physical occupation. A local operator cannot falsify the continuous municipal draw of electricity and water across an entire building. The physical metabolism of the resident functions as the cryptographic key validating the ledger. This living human asset secures the thirty-six million six hundred thousand dollar venture gamble.
 
 The ghost asset is structurally eliminated.
