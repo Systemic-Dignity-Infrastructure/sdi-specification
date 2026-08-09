@@ -7,7 +7,7 @@
 
 ## Abstract
 
-The minimum viable SDI deployment requires 85,000 square feet and a community ceiling of 150 people, of which 38 are permanent staff and 112 are residents. This document derives both numbers from biological and operational first principles, establishes the multi-pod scaling economics for vertical tower deployments, and introduces the mega-tower segregation model for large-scale commercial adaptive reuse.
+The minimum viable SDI deployment requires 85,000 square feet and a community ceiling of 150 people, of which 34 are permanent staff and 116 are residents. This document derives both numbers from biological and operational first principles, establishes the multi-pod scaling economics for vertical tower deployments, and introduces the mega-tower segregation model for large-scale commercial adaptive reuse.
 
 ---
 
@@ -46,13 +46,13 @@ Converting these roles to full-time equivalents at the 4.2 multiplier for contin
 | Intake Coordinator | 1 | Daytime | 1.0 | 1 |
 | Building Supervisor | 1 | Daytime | 1.0 | 1 |
 | Veterinary Technician | 1 | Daytime | 1.0 | 1 |
-| **Total** | | | | **38** |
+| **Total** | | | | **34** |
 
-These 38 permanent staff members consume 38 Dunbar slots.
+These 34 permanent staff members consume 34 Dunbar slots.
 
-Subtracting 38 staff from the community ceiling of 150 leaves 112 residents per Dunbar Pod. That is the number the building is sized for. Any operator who houses 150 residents and then hires a clinical staff on top of that figure creates a community of 188 people, which is 38 people beyond the cognitive limit, and the Dunbar effect collapses.
+Subtracting 34 staff from the community ceiling of 150 leaves 116 residents per Dunbar Pod. That is the number the building is sized for. Any operator who houses 150 residents and then hires a clinical staff on top of that figure creates a community of 188 people, which is 38 people beyond the cognitive limit, and the Dunbar effect collapses.
 
-The private residential rooms are called Asset Limited Modular Units. Each unit provides 150 square feet of private, lockable living space for one person. That is a room roughly 10 feet wide and 15 feet long. It contains a bed, a desk, personal storage, and enough floor space to move without feeling caged. Multiply 150 square feet by 112 residents, and the residential component requires 16,800 square feet. That number accounts only for the private rooms. It does not include hallways, stairwells, elevators, or common areas on the residential floors.
+The private residential rooms are called Asset Limited Modular Units. Each unit provides 150 square feet of private, lockable living space for one person. That is a room roughly 10 feet wide and 15 feet long. It contains a bed, a desk, personal storage, and enough floor space to move without feeling caged. Multiply 150 square feet by 116 residents, and the residential component requires 17,400 square feet. That number accounts only for the private rooms. It does not include hallways, stairwells, elevators, or common areas on the residential floors.
 
 The remaining program spaces serve specific functions in the stabilization pipeline, which is the sequence of operations that moves a person from the street into permanent stability.
 
@@ -69,16 +69,16 @@ These four program components account for the spaces that residents and intake s
 | Component | Function | Square Feet |
 |---|---|---|
 | Commercial Kitchen and Cold Storage | Cooking line, walk-in refrigerator, walk-in freezer, dry goods, dishwashing | 3,000 |
-| Laundry Facility | Commercial washers and dryers processing linens and clothing for 112 residents | 1,500 |
+| Laundry Facility | Commercial washers and dryers processing linens and clothing for 116 residents | 1,500 |
 | Mechanical / Electrical / HVAC Plant | Air handling, electrical switchgear, plumbing, backup generator | 4,000 |
-| Staff Offices, Break Rooms, Lockers | Administrative workspace and rest areas for 38 workers | 3,000 |
+| Staff Offices, Break Rooms, Lockers | Administrative workspace and rest areas for 34 workers | 3,000 |
 | Loading Dock and Waste Handling | Food deliveries, medical supplies, laundry and waste outbound | 1,500 |
 | Server Room and Communications Hub | Network infrastructure, building automation, data systems | 500 |
 | **Total Back-of-House** | | **13,500** |
 
 Adding 13,500 square feet to the 71,500 square feet of program space produces a minimum building footprint of 85,000 gross square feet for a single pod.
 
-The physical shape of this 85,000 square feet is flexible. One option is horizontal. An abandoned big-box retail store, the kind vacated when a chain like Sears or Kmart closes, provides a single-story floorplate large enough to contain the full deployment on one level. The ceilings in these buildings are typically 20 to 30 feet high, which accommodates mezzanine construction for the residential floors above the ground-level services. The second option is vertical. A mid-rise commercial office tower of five floors, each floor measuring roughly 17,000 square feet, stacks the functions on top of one another. The Airlock, loading dock, and mechanical plant occupy the ground floor. The Vault, kennel, and laundry occupy the second floor. The clinical node, staff offices, and kitchen occupy the third floor. The residential units for 112 residents occupy floors four and five.
+The physical shape of this 85,000 square feet is flexible. One option is horizontal. An abandoned big-box retail store, the kind vacated when a chain like Sears or Kmart closes, provides a single-story floorplate large enough to contain the full deployment on one level. The ceilings in these buildings are typically 20 to 30 feet high, which accommodates mezzanine construction for the residential floors above the ground-level services. The second option is vertical. A mid-rise commercial office tower of five floors, each floor measuring roughly 17,000 square feet, stacks the functions on top of one another. The Airlock, loading dock, and mechanical plant occupy the ground floor. The Vault, kennel, and laundry occupy the second floor. The clinical node, staff offices, and kitchen occupy the third floor. The residential units for 116 residents occupy floors four and five.
 
 What the physical shape cannot do is shrink below 85,000 square feet without breaking the pipeline. If a city council eliminates the back-of-house to save money, the kitchen closes, the laundry stops, the building loses power backup during storms, and the clinical node cannot receive medical supply deliveries. The residents are housed but not fed, clothed, or treated. The pipeline produces the same failure it would produce if the building were never built.
 
@@ -90,10 +90,10 @@ A vertical tower combining three pods represents the probable economic optimum. 
 
 | Metric | Single Pod Prototype | Three-Pod Tower |
 |---|---|---|
-| Total Residents | 112 | 336 |
-| Variable Staff (Dedicated) | 19 FTE (1 pod) | 57 FTE (3 pods) |
-| Fixed Staff (Shared) | 19 FTE | 28 FTE |
-| Total Staff | 38 FTE | 85 FTE |
+| Total Residents | 116 | 348 |
+| Variable Staff (Dedicated) | 17 FTE (1 pod) | 51 FTE (3 pods) |
+| Fixed Staff (Shared) | 17 FTE | 25 FTE |
+| Total Staff | 34 FTE | 76 FTE |
 | Gross Square Footage | 85,000 sq ft | 185,000 sq ft |
 | Fixed Cost Amortization | Baseline | Optimized |
 
@@ -101,7 +101,7 @@ Scaling beyond a single three-pod tower requires a structural phase change. A co
 
 Deploying inside a mega-tower remains viable only through architectural segregation. The massive superstructure requires severing into independent vertical pipelines, each containing a maximum of three pods. The ground floor cannot function as a single open lobby. It requires physical division into six separate Intake Airlocks with six independent street entrances. Each airlock connects exclusively to a dedicated elevator bank serving only those specific three residential floors. A resident in Sector One requires zero physical capability to access Sector Two without exiting the building and entering a different street door. The building operates as six independent three-pod deployments occupying the same steel frame, rather than one massive two thousand-person deployment. This segregation model captures the massive real estate discount of acquiring a distressed skyscraper without violating the biological cognitive limit.
 
-The 85,000 square foot figure and the 112 resident ceiling function as the structural floor below which the specification refuses to operate, rather than targets to negotiate from.
+The 85,000 square foot figure and the 116 resident ceiling function as the structural floor below which the specification refuses to operate, rather than targets to negotiate from.
 
 ---
 

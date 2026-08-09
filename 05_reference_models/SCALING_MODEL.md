@@ -9,10 +9,10 @@ This document provides lookup tables for operators projecting SDI deployments at
 | Parameter | Value |
 |---|---|
 | Community Ceiling (Dunbar Limit) | 150 |
-| Permanent On-Site Staff (FTE) | 38 |
-| Resident Capacity | 112 |
+| Permanent On-Site Staff (FTE) | 34 |
+| Resident Volume | 116 |
 | ALMU Unit Size | 150 sq ft |
-| Residential Square Footage | 16,800 sq ft |
+| Residential Square Footage | 17,400 sq ft |
 | Program Space | 71,500 sq ft |
 | Back-of-House Infrastructure | 13,500 sq ft |
 | **Minimum Gross Square Footage** | **85,000 sq ft** |
@@ -35,9 +35,8 @@ Staff roles split into two categories for multi-pod scaling. Variable staff rema
 | Facilities Workers | Fixed | 4 |
 | Physicians | Fixed | 2 |
 | Building Supervisor | Fixed | 1 |
-| Loading / Logistics | Fixed | 4 |
-| **Fixed Subtotal** | | **19** |
-| **Total** | | **38** |
+| **Fixed Subtotal** | | **15** |
+| **Total** | | **34** |
 
 ---
 
@@ -45,11 +44,11 @@ Staff roles split into two categories for multi-pod scaling. Variable staff rema
 
 | Metric | 1 Pod | 2 Pods | 3 Pods (Max) |
 |---|---|---|---|
-| Total Residents | 112 | 224 | 336 |
+| Total Residents | 116 | 232 | 348 |
 | Variable Staff (Dedicated) | 19 | 38 | 57 |
-| Fixed Staff (Shared) | 19 | 24 | 28 |
-| Total Staff | 38 | 62 | 85 |
-| Total Community (Staff + Residents) | 150 | 286 | 421 |
+| Fixed Staff (Shared) | 15 | 19 | 19 |
+| Total Staff | 34 | 57 | 76 |
+| Total Community (Staff + Residents) | 150 | 289 | 424 |
 | Dunbar Pods | 1 | 2 | 3 |
 | Gross Square Footage | 85,000 | 135,000 | 185,000 |
 | Fixed Cost per Resident | Baseline | ~74% of Baseline | ~55% of Baseline |
@@ -60,15 +59,19 @@ Staff roles split into two categories for multi-pod scaling. Variable staff rema
 
 ## 4. Mega-Tower Segregation Model
 
-For commercial mega-towers exceeding three pods, the building must be architecturally severed into independent sectors.
+For commercial mega-towers exceeding three pods, the building is architecturally severed into independent sectors.
+
+### Whole-Pod Rounding Rule
+
+Mega-tower capacity is calculated by dividing the target unit count by the pod resident volume (116) and rounding **up** to the nearest whole pod. Fractional pods are prohibited. A 2,000-unit target produces 2,000 ÷ 116 = 17.24 pods, rounded up to **18 pods**, yielding a realized capacity of **2,088 residents** and a total staff count of **612 FTE** (18 × 34). The rounding rule prevents the creation of under-populated pods that breach the Dunbar cognitive architecture by operating below the social density threshold required for community formation.
 
 | Metric | 3-Pod Sector | 6-Sector Mega-Tower |
 |---|---|---|
 | Pods per Sector | 3 | 3 |
 | Total Sectors | 1 | 6 |
 | Total Pods | 3 | 18 |
-| Total Residents | 336 | 2,016 |
-| Total Staff | 85 | ~450 |
+| Total Residents | 348 | 2,088 |
+| Total Staff | 76 | 612 |
 | Independent Intake Airlocks | 1 | 6 |
 | Independent Elevator Banks | 1 | 6 |
 | Independent Street Entrances | 1 | 6 |

@@ -12,11 +12,11 @@ The United States spent approximately $24 billion on homelessness programs betwe
 
 SDI is a three-layer, sequentially dependent engineering specification. The layers cannot be deployed independently. Each layer produces the preconditions required by the next.
 
-**Layer 1: Material Dignity Infrastructure (MDI)** converts surplus commercial real estate into biologically secure stabilization environments via master lease arrangements. It eliminates the multi-year construction pipeline by activating existing vacant capacity, treating time as a physical constraint rather than an administrative variable. Phase Zero biological stabilization (shelter, nutrition, hygiene) must be achieved within 72 hours of intake. If a resident lacks cognitive capacity due to acute psychiatric crisis, this 72-hour window functions as a secure medical airlock under state legal authority before transitioning to voluntary liberty.
+**Layer 1: Material Dignity Infrastructure (MDI)**: The architectural baseline. Distributed deployment of Asset-Limited Modular Units (ALMUs) within master-leased commercial real estate to execute immediate biological stabilization. Bypasses the municipal construction bottleneck by activating existing structural volume, treating time as a physical constraint rather than an administrative variable. Phase Zero biological stabilization (shelter, nutrition, hygiene) is achieved within 72 hours of intake. If a resident lacks cognitive capability due to acute psychiatric crisis, this 72-hour window functions as a locked medical airlock under state legal authority before transitioning to voluntary liberty.
 
 **Layer 2: Relational Dignity Infrastructure (RDI)** provides the social architecture required for identity restoration. Dunbar-scale cohorts (groups of approximately seven residents) are governed by trained Pod Stewards at a 1:7 ratio. This layer closes the Housing First retention gap by preserving relational bonds through the housing transition rather than severing them at intake.
 
-**Layer 3: Economic Dignity Infrastructure (EDI)** establishes cooperative micro-economies to bridge the Return Deficit, defined as the wage and credentialing gap that prevents formerly homeless individuals from sustaining market-rate tenancy. The Tenancy Bridge Guarantee commits Medicaid waiver funding to underwrite the first twelve months of independent market-rate housing for graduating residents. A zero-knowledge billing firewall secures this capital by cryptographically matching the clinical identity against physical occupancy telemetry without violating optical privacy.
+**Layer 3: Economic Dignity Infrastructure (EDI)** establishes cooperative micro-economies to bridge the Return Deficit, defined as the wage and credentialing gap that prevents formerly homeless individuals from sustaining market-rate tenancy. The Tenancy Bridge Guarantee commits Medicaid waiver funding to underwrite the first twelve months of independent market-rate housing for graduating residents. A zero-knowledge billing firewall defends this capital by cryptographically matching the clinical identity against physical occupancy telemetry without violating optical privacy.
 
 ### The Six-Paper Arc
 
@@ -25,7 +25,7 @@ The theoretical justification is articulated across six sequential working paper
 | Paper | Title | Core Contribution |
 |:------|:------|:------------------|
 | [WP1](../04_working_papers/wp1_stewardship_model/) | Foundational Theory | MDI tower architecture; Efficiency Surplus Model |
-| [WP2](../04_working_papers/wp2_surplus_capacity/) | Structural Misalignment & Surplus Capacity | National Stability Utility; Auditable Infrastructure |
+| [WP2](../04_working_papers/wp2_surplus_volume/) | Structural Misalignment & Surplus Capacity | National Stability Utility; Auditable Infrastructure |
 | [WP3](../04_working_papers/wp3_los_angeles_pipeline/) | Los Angeles Metropolitan Stabilization | Full intake pipeline; Phase Zero; Singular Prototype Threshold |
 | [WP4](../04_working_papers/wp4_human_layer/) | Relational Dignity Infrastructure | Pod Steward model; RDI Production Conditions; Verification Metrics |
 | [WP5](../04_working_papers/wp5_economic_dignity/) | Economic Dignity Infrastructure | Return Deficit; Cooperative Reintegration; Tenancy Bridge Guarantee |
@@ -38,7 +38,7 @@ This repository is designed for:
 - **Municipal administrators** evaluating deployment feasibility
 - **Medicaid waiver architects** structuring CalAIM billing pathways
 - **Systems engineers and data scientists** auditing falsifiable claims
-- **Urban planners and real estate analysts** assessing surplus capacity conversion
+- **Urban planners and real estate analysts** assessing surplus real estate conversion
 - **Clinical directors** evaluating the Pod Steward relational model
 - **Econometricians** stress-testing the Efficiency Surplus and Return Deficit models
 
@@ -59,11 +59,11 @@ This repository is designed for:
 
 ### Implementation Philosophy
 
-SDI operates as an uncompromising engineering standard. Biological absolutes (metabolic collapse, thermal exposure) do not negotiate with municipal budgets. Safety tolerances are not politically adjustable. The framework defines the exact mathematical conditions of its own failure and mandates automated disqualification of municipalities that cannot meet the non-negotiable gating criteria.
+SDI operates as an uncompromising engineering standard. Biological absolutes (metabolic collapse, thermal exposure) do not negotiate with municipal budgets. Safety tolerances are not politically adjustable. The architecture defines the mathematical conditions of its own failure and mandates automated disqualification of municipalities that cannot meet the non-negotiable gating criteria.
 
 ### Current Maturity
 
-The framework is at the **Singular Prototype Threshold** stage. The six-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a three-pod Singular Prototype (approx. 185,000 sq ft) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
+The architecture is at the **Singular Prototype Threshold** stage. The six-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a three-pod Singular Prototype (approx. 185,000 sq ft) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
 
 ### Roadmap
 

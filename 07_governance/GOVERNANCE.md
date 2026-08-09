@@ -131,6 +131,8 @@ A binding legal verification confirms that the local emergency hold statute alig
 ### B. Independent Financial Review
 An independent financial reviewer with no stake in the project verifies the fiscal methodology. The review confirms that the baseline municipal avoided cost cites a published source, specifies cost variance across chronic, transitional, and document-isolated populations, quantifies the worst-case friction variable as an explicit mathematical input, and states whether facility expense figures represent amortized construction cost or operations only.
 
+The financial review must include a specialist in California Medi-Cal billing and CalAIM program compliance. This specialist independently audits the Enhanced Care Management and Community Supports revenue offset model. The audit confirms that only roles qualifying under ECM service definitions or ILOS Community Supports categories are included in CalAIM billing projections. Non-clinical operating staff including security, kitchen, facilities, and building maintenance are excluded from any Medicaid revenue offset. The specialist applies per-member-per-month risk adjustment factors reflecting actual Medi-Cal enrollment rates among the target population and the absence of binding statewide ECM/ILOS rate schedules. No CalAIM revenue figure is used in fundraising materials or efficiency surplus projections until this specialist review is complete.
+
 ### C. Independent Citation Verification
 An external reviewer verifies that every cited source in the working papers exists and states what it is cited as stating. This review goes beyond internal LaTeX key consistency. It confirms the factual accuracy of each citation against the original published text, with direct application to Working Paper Three and Working Paper Five.
 
@@ -155,7 +157,7 @@ All four external audit outcomes are published in full in this repository. Parti
 
 ## 14. Pilot Validation Requirement
 
-A single, small-scale, independently evaluated pilot is mandatory before any full-scale multi-tower deployment proceeds. The pilot focuses on adaptive-reuse conversion and voluntary stabilization within a single Dunbar Pod. The pilot operates in partnership with an existing local operator possessing established clinical and residential capacity. An independent third-party evaluator measures outcomes at ninety, one hundred eighty, and three hundred sixty-five days. The eight binary verification metrics constituting the Singular Prototype Threshold must pass before network expansion initiates.
+A single, small-scale, independently evaluated pilot is mandatory before any full-scale multi-tower deployment proceeds. The pilot focuses on adaptive-reuse conversion and voluntary stabilization within a single Dunbar Pod. The pilot operates in partnership with an existing local operator possessing established clinical and residential capacity. An independent third-party evaluator measures outcomes at ninety, one hundred eighty, and three hundred sixty-five days. The seven binary verification metrics constituting the Singular Prototype Threshold must pass before network expansion initiates.
 
 ---
 

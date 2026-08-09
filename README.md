@@ -10,7 +10,7 @@
 
 This repository is the reference specification for the **Systemic Dignity Infrastructure (SDI)** — a three-layer, sequentially dependent architecture that treats chronic homelessness as a systems engineering failure rather than a resource deficiency.
 
-The framework integrates:
+The specification integrates:
 
 1. **Material Dignity Infrastructure (MDI)** — Physical stabilization via surplus real estate conversion
 2. **Relational Dignity Infrastructure (RDI)** — Social architecture via Dunbar-scale cohorts and Pod Stewards
@@ -81,7 +81,7 @@ make verify   # Check citation key resolution
 
 ## Contributing
 
-This is an open-source engineering project. We actively seek contributions from:
+This is an open-source engineering project. We seek contributions from:
 
 - Systems engineers and data scientists
 - Econometricians and financial modelers

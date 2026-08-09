@@ -1,18 +1,18 @@
 # Contributing to Material Dignity Infrastructure
 
-This repository contains five working papers that specify a structural framework for reversing chronic unsheltered homelessness. Four papers are published on SSRN. The fifth paper is in development. All are maintained here as living documents and open to contribution.
+This repository contains five working papers that specify a structural architecture for reversing chronic unsheltered homelessness. Four papers are published on SSRN. The fifth paper is in development. All are maintained here as living documents and open to contribution.
 
 ## What This Project Is
 
 Material Dignity Infrastructure is a five-paper theoretical architecture covering the full street-to-sovereignty pipeline:
 
 - **WP1**: Material Dignity Infrastructure (physical stabilization)
-- **WP2**: Structural Misalignment (activation of surplus shelter capacity)
+- **WP2**: Structural Misalignment (activation of surplus shelter footprint)
 - **WP3**: Los Angeles Metropolitan Stabilization (street-to-home pipeline analysis)
 - **WP4**: Relational Dignity Infrastructure (the human layer)
 - **WP5**: Economic Dignity Infrastructure (cooperative reintegration and labor market reentry) [Draft]
 
-The papers specify mechanisms. They do not yet contain implementation data, financial projections at unit level, or site-specific adaptation guides. That work requires more minds than one. We explicitly invite data scientists, urban architects, and econometricians to audit the falsifiable claims made throughout the framework and contribute data to close these gaps.
+The papers specify mechanics. They do not yet contain implementation data, financial projections at unit level, or site-specific adaptation guides. That work requires more minds than one. We invite data scientists, urban architects, and econometricians to audit the falsifiable claims made throughout the architecture and contribute data to close these gaps.
 
 ## Where Contributions Are Needed
 
@@ -33,7 +33,7 @@ WP5 specifies the Tenancy Bridge Guarantee and Cooperative Reintegration Mechani
 - Model cooperative bylaws for resident-worker ownership within a supportive housing context
 - CalAIM billing compliance documentation for Housing Transition Navigation Services
 - Zoning and land use analysis for congregate cooperative housing in target municipalities
-- Liability framework for peer-led security operations within cooperative governance
+- Liability model for peer-led security operations within cooperative governance
 
 ### Implementation and Case Studies
 
@@ -51,7 +51,7 @@ WP5 specifies the Tenancy Bridge Guarantee and Cooperative Reintegration Mechani
 
 ### Policy and Comparative Analysis
 
-- International social cooperative frameworks (Italian Type B cooperatives, UK social enterprises)
+- International social cooperative models (Italian Type B cooperatives, UK social enterprises)
 - Comparative Medicaid waiver structures across states with housing-related Community Supports
 - Political economy of municipal implementation (council approval, NIMBY mitigation, provider contracting)
 
@@ -71,7 +71,7 @@ WP5 specifies the Tenancy Bridge Guarantee and Cooperative Reintegration Mechani
 
 **Citation.** If your contribution references external literature, use the same citation format as the existing papers (author-year in brackets, full reference at end). If your contribution is substantial enough to warrant independent citation, include a suggested citation line at the top.
 
-**Scope.** Contributions should extend, stress-test, or operationalize the existing architecture. This is not a general homelessness research repository. Contributions that contradict the framework's premises are welcome if they bring evidence; contributions that propose alternative frameworks belong in their own repositories.
+**Scope.** Contributions extend, stress-test, or implement the existing architecture. This is not a general homelessness research repository. Contributions that contradict the architecture's premises are welcome if they bring evidence; contributions that propose alternative architectures belong in their own repositories.
 
 ## What Happens to Contributions
 
@@ -79,9 +79,9 @@ Accepted pull requests are merged into the working repository. Contributors are 
 
 **Decisions are made via open-source consensus.** Per the [GOVERNANCE.md](./GOVERNANCE.md) protocol, this ensures that technical direction is driven by data validation and empirical verification. The Principal Systems Architect retains ultimate authority over the engineering core, ensuring your voice is heard and integrated via a generic administrative Git account without requiring public exposure.
 
-This is not an academic journal. There is no traditional peer review gate; there is rigorous engineering judgment regarding coherence, falsifiability, and quality. If a contribution is rejected, the empirical or logical reason will be stated in the pull request discussion.
+This is not an academic journal. There is no traditional peer review gate; there is rigid engineering judgment regarding coherence, falsifiability, and quality. If a contribution is rejected, the empirical or logical reason will be stated in the pull request discussion.
 
-## Who Should Contribute
+## Target Contributors
 
 - Economists with experience in labor market modeling, cooperative economics, or Medicaid financing
 - Social workers and clinicians with implementation experience in supportive housing or IPS
@@ -89,7 +89,7 @@ This is not an academic journal. There is no traditional peer review gate; there
 - Researchers with longitudinal evaluation design experience
 - Policy analysts working in housing, homelessness, or workforce development
 - Engineers building data systems for social service delivery
-- Anyone with direct lived experience of the systems these papers describe
+- Anyone with lived experience of the systems these papers describe
 
 ## Contact
 

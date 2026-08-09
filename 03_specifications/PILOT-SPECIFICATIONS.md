@@ -2,44 +2,44 @@
 
 This document functions as the mechanical bridge between the theoretical architecture of the Systemic Dignity Infrastructure (SDI) and its municipal execution. 
 
-To prevent municipalities or capital donors from adopting the vocabulary of the model while violating its structural sequence, the following operational, financial, and logistical gating criteria are non-negotiable. A municipality failing to meet these criteria is structurally disqualified from executing an authorized SDI pilot.
+To prevent municipalities or capital donors from adopting the vocabulary of the model while violating its sequence, the following administrative, financial, and logistical gating criteria are non-negotiable. A municipality failing to meet these criteria is mechanically disqualified from executing an authorized SDI pilot.
 
 ---
 
 ## 1. Causal Sequencing Compliance
 
-The municipality must legally commit to the sequential hierarchy of the Dignity Stack. 
+The municipality legally commits to the sequential hierarchy of the Dignity Stack. 
 
-* **Phase Zero Priority:** Biological stabilization (Material Dignity Infrastructure) and relational formation (Relational Dignity Infrastructure) must be secured before any mandated labor market exposure (Economic Dignity Infrastructure).
-* **Prohibited Actions:** Accelerated timelines that bypass physiological recovery, or conditional housing models that mandate employment prior to metabolic stabilization, will be structurally rejected.
+* **Phase Zero Priority:** Biological stabilization (Material Dignity Infrastructure) and relational formation (Relational Dignity Infrastructure) are secured before any mandated labor market exposure (Economic Dignity Infrastructure).
+* **Prohibited Actions:** Accelerated timelines that bypass physiological recovery, or conditional housing models that mandate employment prior to metabolic stabilization, will be mechanically rejected.
 
 ## 2. Auditable Infrastructure Mandate
 
-The municipality must surrender self-reported administrative compliance. 
+The municipality surrenders self-reported administrative compliance. 
 
-* **Verification:** All funded stabilization units must integrate GPS indexing and real-time port-level digital handshakes to verify continuous operational status.
-* **The Ghost Asset Problem:** This cryptographic verification ensures that public funds are not allocated to units that cannot be physically or functionally verified.
+* **Verification:** All funded stabilization units integrate GPS indexing and real-time port-level digital handshakes to verify continuous physical status.
+* **The Ghost Variable Problem:** This cryptographic verification guarantees that public funds are not allocated to units that cannot be physically or functionally verified.
 
-## 3. Surplus Capacity Activation
+## 3. Surplus Real Estate Activation
 
-The municipality must rely on cybernetic production logic rather than multi-year capital construction.
+The municipality relies on mechanical production logic rather than multi-year capital construction.
 
-* **Asset Utilization:** The pilot must authorize the conversion of existing surplus real estate (e.g., high-vacancy commercial towers, dead malls) via master lease arrangements under the National Stability Utility.
-* **Prohibited Actions:** Proposals relying on traditional, multi-year new construction pipelines violate the core logic of the framework and will be disqualified.
+* **Property Occupancy:** The pilot authorizes the conversion of existing surplus real estate (e.g., high-vacancy commercial towers, dead malls) via master lease arrangements under the National Stability Utility.
+* **Prohibited Actions:** Proposals relying on traditional, multi-year new construction pipelines violate the core logic of the architecture and will be disqualified.
 
 ## 4. Capital Routing Isolation (The Tenancy Bridge)
 
-The municipality must demonstrate the structural capacity to shield transition funding from general municipal sweep.
+The municipality demonstrates the physical capability to shield transition funding from general municipal sweep.
 
-* **Revenue Streams:** Designated stabilization revenue (e.g., Medicaid waiver funding, CalAIM Housing Transition Navigation Services) must be routed directly into the Tenancy Bridge Guarantee.
-* **Capital Protection:** These funds must be legally isolated to underwrite external market-rate master leases for graduating residents without political interference.
+* **Revenue Streams:** Designated stabilization revenue (e.g., Medicaid waiver funding, CalAIM Housing Transition Navigation Services) routes linearly into the Tenancy Bridge Guarantee.
+* **Capital Protection:** These funds remain legally isolated to underwrite external market-rate master leases for graduating residents without political interference.
 
 ## 5. Cooperative Sovereignty
 
-The municipality must recognize the internal cooperative micro-economy as an autonomous governance zone.
+The municipality recognizes the internal cooperative micro-economy as an autonomous governance zone.
 
-* **Ostrom's Principles:** The internal economy must be governed by Ostrom’s core design principles, granting residents democratic control over profit distribution and dispute resolution.
-* **Administrative Immunity:** The cooperative must be shielded from external municipal micromanagement as long as verifiable performance metrics and civic stability are maintained.
+* **Ostrom's Principles:** The internal economy is governed by Ostrom’s core design principles, granting residents democratic control over profit distribution and dispute resolution.
+* **Administrative Immunity:** The cooperative remains shielded from external municipal micromanagement as long as verifiable performance metrics and civic stability are maintained.
 
 ## 6. Physical Plant and Staffing Baselines
 
@@ -47,7 +47,7 @@ The Dunbar Pod community ceiling is 150 individuals. This ceiling applies to the
 
 ### 6.1 Minimum Staffing Derivation
 
-A 24-hour, seven-day-a-week, year-round clinical and logistical facility demands 38 full-time equivalent workers at minimum.
+A 24-hour, seven-day-a-week, year-round clinical and logistical facility demands 34 full-time equivalent workers at minimum.
 
 | Role | Per Shift | Coverage | Multiplier | FTE |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ A 24-hour, seven-day-a-week, year-round clinical and logistical facility demands
 | Intake Coordinator | 1 | Daytime | 1.0 | 1 |
 | Building Supervisor | 1 | Daytime | 1.0 | 1 |
 | Veterinary Technician | 1 | Daytime | 1.0 | 1 |
-| **Total** | | | | **38** |
+| **Total** | | | | **34** |
 
-Subtracting 38 staff from the community ceiling of 150 produces the resident count: **112 residents per Dunbar Pod.**
+Subtracting 34 staff from the community ceiling of 150 produces the resident count: **116 residents per Dunbar Pod.**
 
 ### 6.2 Minimum Physical Plant
 
@@ -71,9 +71,9 @@ The minimum building footprint for a single Dunbar Pod is **85,000 gross square 
 | Component | Function | Square Feet |
 |---|---|---|
 | Commercial Kitchen and Cold Storage | Cooking line, walk-in refrigerator, walk-in freezer, dry goods, dishwashing | 3,000 |
-| Laundry Facility | Commercial washers and dryers processing linens and clothing for 112 residents | 1,500 |
+| Laundry Facility | Commercial washers and dryers processing linens and clothing for 116 residents | 1,500 |
 | Mechanical / Electrical / HVAC Plant | Air handling, electrical switchgear, plumbing, backup generator | 4,000 |
-| Staff Offices, Break Rooms, Lockers | Administrative workspace and rest areas for 38 workers | 3,000 |
+| Staff Offices, Break Rooms, Lockers | Administrative workspace and rest areas for 34 workers | 3,000 |
 | Loading Dock and Waste Handling | Food deliveries, medical supplies, laundry and waste outbound | 1,500 |
 | Server Room and Communications Hub | Network infrastructure, building automation, data systems | 500 |
 | **Total Back-of-House** | | **13,500** |
@@ -84,19 +84,19 @@ A vertical tower combining a maximum of **three Dunbar Pods** represents the eco
 
 | Metric | Single Pod Prototype | Three-Pod Tower |
 |---|---|---|
-| Total Residents | 112 | 336 |
-| Variable Staff (Dedicated) | 19 FTE (1 pod) | 57 FTE (3 pods) |
-| Fixed Staff (Shared) | 19 FTE | 28 FTE |
-| Total Staff | 38 FTE | 85 FTE |
+| Total Residents | 116 | 348 |
+| Variable Staff (Dedicated) | 17 FTE (1 pod) | 51 FTE (3 pods) |
+| Fixed Staff (Shared) | 17 FTE | 25 FTE |
+| Total Staff | 34 FTE | 76 FTE |
 | Gross Square Footage | 85,000 sq ft | 185,000 sq ft |
 | Fixed Cost Amortization | Baseline | Optimized |
 
 ### 6.4 Mega-Tower Segregation Requirement
 
-Deploying inside a commercial mega-tower (e.g., 2,000+ units) remains viable only through architectural segregation. The superstructure must be severed into independent vertical pipelines, each containing a maximum of three pods. Each pipeline requires:
+Deploying inside a commercial mega-tower (e.g., 2,000+ units) remains viable only through architectural segregation. The superstructure is severed into independent vertical pipelines, each containing a maximum of three pods. Each pipeline requires:
 
 * **Independent Intake Airlock** with a separate street entrance
 * **Dedicated elevator bank** serving only that pipeline's residential floors
 * **Zero physical access** between sectors without exiting the building
 
-A municipality proposing a mega-tower deployment without architectural segregation is structurally disqualified.
+A municipality proposing a mega-tower deployment without architectural segregation is mechanically disqualified.
