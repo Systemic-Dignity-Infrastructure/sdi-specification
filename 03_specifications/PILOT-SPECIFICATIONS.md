@@ -26,7 +26,7 @@ The municipality relies on mechanical production logic rather than multi-year ca
 
 * **Property Occupancy:** The pilot authorizes the conversion of existing surplus real estate (e.g., high-vacancy commercial towers, dead malls) via master lease arrangements under the National Stability Utility.
 * **Prohibited Actions:** Proposals relying on traditional, multi-year new construction pipelines violate the core logic of the architecture and will be disqualified.
-* **Legal Pathway Caveat:** The 180-day by-right deployment timeline depends on AB 2011/AB 2243 authorization. Whether AB 2011's site-eligibility criteria extend to full high-rise office-tower adaptive reuse (as distinct from the commercial-corridor and underutilized-retail parcels the statute was legislatively designed for) is a working assumption pending outside legal review and has not been confirmed against the bill text by counsel. See Risk Register RK-15.
+* **Legal Pathway Caveat:** The 180-day by-right deployment timeline depends on AB 2011 (Gov. Code §§65912.100–140) authorization. AB 2011 contains two distinct site-eligibility pathways — Article 2 (§65912.110 et seq., general commercial sites) and Article 3 (§65912.120 et seq., commercial-corridor-specific sites) — and which, if either, extends to full high-rise office-tower adaptive reuse is a working assumption pending outside legal review, not yet confirmed against the bill text by counsel. SB 6 (Middle Class Housing Act of 2022) is a separate, unevaluated alternative by-right pathway. See Risk Register RK-15.
 
 ## 4. Capital Routing Isolation (The Tenancy Bridge)
 
