@@ -10,6 +10,8 @@
 
 This repository is the reference specification for the **Systemic Dignity Infrastructure (SDI)** — a three-layer, sequentially dependent architecture that treats chronic homelessness as a systems engineering failure rather than a resource deficiency.
 
+The architecture is anchored in physical reality by the **Singular Prototype**: a $36.9M, three-pod, 348-resident adaptive reuse facility designed to prove the biological stabilization baseline at minimum viable scale before multi-tower expansion.
+
 The specification integrates:
 
 1. **Material Dignity Infrastructure (MDI)** — Physical stabilization via surplus real estate conversion
@@ -28,12 +30,13 @@ sdi-specification/
 ├── 01_vision/               The Uncompromising Engineering Standard
 ├── 02_architecture/         System Context and Repository Architecture diagrams
 ├── 03_specifications/       Municipal Pilot Specifications (gating criteria)
-├── 04_working_papers/       The five-paper theoretical arc (LaTeX + PDF)
+├── 04_working_papers/       The six-paper theoretical arc (LaTeX + PDF)
 │   ├── wp1_stewardship_model/
 │   ├── wp2_surplus_capacity/
 │   ├── wp3_los_angeles_pipeline/
 │   ├── wp4_human_layer/
-│   └── wp5_economic_dignity/
+│   ├── wp5_economic_dignity/
+│   └── wp6_singular_prototype/
 ├── 05_reference_models/     Assumptions, Constraints, and Risk Registers
 ├── 06_verification/         Requirements Traceability and Verification Matrices
 ├── 07_governance/           Project governance and split-authority protocol
@@ -71,7 +74,7 @@ sdi-specification/
 The working papers are authored in LaTeX. To compile locally:
 
 ```bash
-make all      # Build all five papers
+make all      # Build all six papers
 make wp1      # Build WP1 only
 make clean    # Remove build artifacts
 make verify   # Check citation key resolution
