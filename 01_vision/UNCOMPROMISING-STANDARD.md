@@ -18,8 +18,9 @@ A true engineering standard defines the mathematical conditions of its own failu
 
 Within SDI, these falsifiable metrics include:
 
-*   **Auditable Infrastructure** (defined in [WP2, §8](../04_working_papers/wp2_surplus_capacity/))**:** Cryptographic, real-time sensor verification of physical unit activation. If units are funded but remain unverified on the network, the infrastructure has failed (the Ghost Asset Problem).
+*   **Auditable Infrastructure** (defined in [WP2, §8](../04_working_papers/wp2_surplus_capacity/))**:** Cryptographic, real-time sensor verification of physical unit activation, governed by a strictly bifurcated telemetry doctrine protecting resident opt-out via the Philanthropic Set-Aside. If units are funded but remain unverified on the network, the infrastructure has failed (the Ghost Asset Problem).
 *   **The Return Deficit** (defined in [WP5, §2](../04_working_papers/wp5_economic_dignity/))**:** The quantified penalty imposed by the external labor market upon transitioning residents. If the internal cooperative micro-economy fails to bridge this deficit, the Economic Dignity layer has failed.
+*   **The Singular Prototype Threshold** (defined in [WP3, §6](../04_working_papers/wp3_los_angeles_pipeline/) and [WP6](../04_working_papers/wp6_singular_prototype/))**:** The seven binary verification metrics gating network expansion. If the $36.9M, three-pod prototype fails to clear these thresholds at 365 days, the architecture is halted.
 
 If the data does not validate the model, the model is falsified. It is not politically rebranded.
 
