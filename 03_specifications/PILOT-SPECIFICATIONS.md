@@ -17,7 +17,7 @@ The municipality legally commits to the sequential hierarchy of the Dignity Stac
 
 The municipality surrenders self-reported administrative compliance. 
 
-* **Verification:** All funded stabilization units integrate GPS indexing and real-time port-level digital handshakes to verify continuous physical status.
+* **Verification:** All funded stabilization units integrate GPS indexing and real-time port-level digital handshakes to verify continuous physical status. This verification operates under a strictly **bifurcated telemetry doctrine**: while physical occupancy verification is required for asset protection, billing telemetry remains opt-out protected via the Philanthropic Set-Aside.
 * **The Ghost Variable Problem:** This cryptographic verification guarantees that public funds are not allocated to units that cannot be physically or functionally verified.
 
 ## 3. Surplus Real Estate Activation
@@ -100,3 +100,15 @@ Deploying inside a commercial mega-tower (e.g., 2,000+ units) remains viable onl
 * **Zero physical access** between sectors without exiting the building
 
 A municipality proposing a mega-tower deployment without architectural segregation is mechanically disqualified.
+
+## 7. The Seven Binary Verification Metrics
+
+The Singular Prototype is governed by seven falsifiable thresholds gating network expansion. These metrics structurally map to the Pathways Housing First Fidelity Scale to ensure the architecture proves its compliance with rigorous clinical separation, harm reduction, and non-coercion.
+
+1. **Intake Velocity:** Phase Zero biological stabilization achieved within 72 hours of street extraction.
+2. **Clinical Separation (Fidelity Scale Alignment):** Housing retention is entirely decoupled from psychiatric or substance-use treatment compliance.
+3. **Non-Coercion (Fidelity Scale Alignment):** Billing telemetry remains strictly voluntary, protected by the Philanthropic Set-Aside without loss of housing.
+4. **Relational Integrity:** Dunbar Pods strictly enforce the 150 cognitive ceiling and 1:7 Pod Steward ratio.
+5. **Capital Isolation:** The Tenancy Bridge Guarantee successfully shields 12 months of transition funding from municipal sweep.
+6. **Arbitrage Validation:** The 365-day fully loaded per-resident cost proves the 42–52% arbitrage against the municipal baseline.
+7. **Cryptographic Auditing:** Zero-knowledge physical occupancy sensors successfully eliminate the Ghost Asset Problem.
