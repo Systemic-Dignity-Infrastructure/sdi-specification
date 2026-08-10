@@ -80,16 +80,16 @@ The minimum building footprint for a single Dunbar Pod is **85,000 gross square 
 
 ### 6.3 Multi-Pod Scaling Constraint
 
-A vertical tower combining a maximum of **three Dunbar Pods** represents the economic optimum. Beyond three pods, preventing resident cross-contamination in elevators and intake airlocks becomes impossible to manage. Cognitive isolation between pods is non-negotiable: residents of one pod cannot share social space, dining facilities, or common areas with residents of another pod.
+A vertical tower combining a maximum of **three Dunbar Pods** represents the economic optimum, and is the standardized configuration for the Singular Prototype (see `05_reference_models/CAPITAL.md`). Beyond three pods, preventing resident cross-contamination in elevators and intake airlocks becomes impossible to manage. Cognitive isolation between pods is non-negotiable: residents of one pod cannot share social space, dining facilities, or common areas with residents of another pod.
 
-| Metric | Single Pod Prototype | Three-Pod Tower |
+| Metric | Single Pod (unit economics) | Three-Pod Tower (Singular Prototype) |
 |---|---|---|
 | Total Residents | 116 | 348 |
-| Variable Staff (Dedicated) | 17 FTE (1 pod) | 51 FTE (3 pods) |
-| Fixed Staff (Shared) | 17 FTE | 25 FTE |
+| Variable Staff (Dedicated) | 19 FTE | 57 FTE (19 × 3) |
+| Fixed Staff (Shared) | 15 FTE | 19 FTE |
 | Total Staff | 34 FTE | 76 FTE |
 | Gross Square Footage | 85,000 sq ft | 185,000 sq ft |
-| Fixed Cost Amortization | Baseline | Optimized |
+| Fixed Cost Amortization | Baseline | Optimized (see `05_reference_models/SCALING_MODEL.md` §2–3 for the role-by-role derivation) |
 
 ### 6.4 Mega-Tower Segregation Requirement
 

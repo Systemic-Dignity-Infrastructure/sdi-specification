@@ -52,7 +52,7 @@ These 34 permanent staff members consume 34 Dunbar slots.
 
 Subtracting 34 staff from the community ceiling of 150 leaves 116 residents per Dunbar Pod. That is the number the building is sized for. Any operator who houses 150 residents and then hires a clinical staff on top of that figure creates a community of 188 people, which is 38 people beyond the cognitive limit, and the Dunbar effect collapses.
 
-The private residential rooms are called Asset Limited Modular Units. Each unit provides 150 square feet of private, lockable living space for one person. That is a room roughly 10 feet wide and 15 feet long. It contains a bed, a desk, personal storage, and enough floor space to move without feeling caged. Multiply 150 square feet by 116 residents, and the residential component requires 17,400 square feet. That number accounts only for the private rooms. It does not include hallways, stairwells, elevators, or common areas on the residential floors.
+The private residential rooms are called Asset Limited Modular Units. Each unit provides 150 square feet of private, lockable living space for one person. That is a room roughly 10 feet wide and 15 feet long. It contains a bed, a desk, personal storage, and enough floor space to move without feeling caged. Multiply 150 square feet by 116 residents, and the residential component requires 17,400 square feet. That number accounts only for the private rooms. It does not include hallways, stairwells, elevators, or common areas on the residential floors. This 17,400 square feet is a subcomponent of, not an addition to, the 71,500 square feet of program space derived below: the remaining 54,100 square feet covers the Airlock, the veterinary kennel, the Possessions Vault, the clinical node, and the circulation connecting them.
 
 The remaining program spaces serve specific functions in the stabilization pipeline, which is the sequence of operations that moves a person from the street into permanent stability.
 
@@ -84,18 +84,18 @@ What the physical shape cannot do is shrink below 85,000 square feet without bre
 
 The single-pod prototype functions as an economically suboptimal deployment because the back-of-house infrastructure, the kitchen, the laundry, the mechanical plant, the loading dock, and the server room serve the whole building regardless of how many pods occupy the residential floors. Stacking two or three Dunbar Pods inside one tower amortizes that fixed overhead cost across a larger number of residents without requiring additional fixed infrastructure. The constraint on this stacking is cognitive isolation. For the Dunbar effect to hold inside each pod, the residents of one pod cannot share social space with the residents of another. A shared dining hall defeats the architecture. A shared elevator lobby where residents of all pods mix defeats it. The ground-floor infrastructure can serve the whole building because residents do not spend their social time there. The residential floors, the common areas, and the dining rooms stay separated, one set per pod.
 
-This splits the staffing model into variable and fixed categories. Variable staff, such as nurses and floor monitors, remain dedicated to a single pod to maintain the social network. Fixed staff, such as facilities technicians and kitchen workers, operate largely outside the intimate pod network and scale efficiently across the whole building.
+This splits the staffing model into variable and fixed categories. Variable staff — registered nurses, security/floor monitors, the social worker, the intake coordinator, and the veterinary technician — remain dedicated to a single pod to maintain the social network, since these roles interact with residents individually. Fixed staff — kitchen workers, facilities workers, physicians, and the building supervisor — operate largely outside the intimate pod network and scale across the whole building. The full role-by-role assignment is codified in `05_reference_models/SCALING_MODEL.md` §2.
 
-A vertical tower combining three pods represents the probable economic optimum. Beyond three pods, the logistical friction of preventing resident cross-contamination in elevators and intake airlocks becomes impossible to manage.
+A vertical tower combining three pods represents the probable economic optimum. Beyond three pods, the logistical friction of preventing resident cross-contamination in elevators and intake airlocks becomes impossible to manage. **The three-pod tower is the standardized Singular Prototype specification** (see `05_reference_models/CAPITAL.md`); the single-pod figures below represent the per-pod unit economics from which the three-pod tower is built, not an independent, smaller-scale pilot option.
 
-| Metric | Single Pod Prototype | Three-Pod Tower |
+| Metric | Single Pod (unit economics) | Three-Pod Tower (Singular Prototype) |
 |---|---|---|
 | Total Residents | 116 | 348 |
-| Variable Staff (Dedicated) | 17 FTE (1 pod) | 51 FTE (3 pods) |
-| Fixed Staff (Shared) | 17 FTE | 25 FTE |
+| Variable Staff (Dedicated) | 19 FTE | 57 FTE (19 × 3) |
+| Fixed Staff (Shared) | 15 FTE | 19 FTE |
 | Total Staff | 34 FTE | 76 FTE |
 | Gross Square Footage | 85,000 sq ft | 185,000 sq ft |
-| Fixed Cost Amortization | Baseline | Optimized |
+| Fixed Cost Amortization | Baseline | Optimized (Fixed Staff per resident falls to 42.2% of baseline — see SCALING_MODEL.md §3) |
 
 Scaling beyond a single three-pod tower requires a structural phase change. A commercial mega-tower containing two thousand units, such as an abandoned skyscraper in a downtown financial district, represents eighteen Dunbar Pods. If those eighteen pods share a single ground-floor airlock and a single elevator bank, the cognitive limit breaches instantly. The community collapses into an institution.
 

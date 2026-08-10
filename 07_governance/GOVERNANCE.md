@@ -98,9 +98,11 @@ The physical lease is permanently severed from clinical or behavioral compliance
 
 ## 8. Telemetry Informed Consent
 
-The environmental monitoring system collects the minimum data required for physical asset verification and biological occupancy confirmation. Residents retain the explicit right to decline non-safety-critical monitoring without losing housing. Safety-critical monitoring is limited to fire detection, catastrophic water pressure events, and structural vibration anomalies that threaten the capital asset.
+The environmental monitoring system collects the minimum data required for physical asset verification and biological occupancy confirmation. Safety-critical monitoring — fire detection, catastrophic water pressure events, and structural vibration anomalies that threaten the capital asset — is a non-negotiable condition of occupancy, comparable to a smoke detector in ordinary rental housing. It is not linked to funding and carries no bearing on tenure.
 
-An independent civil liberties auditor signs off on all data collection protocols prior to any deployment. This auditor determines what constitutes safety-critical monitoring. The review evaluates whether each data stream serves a verified engineering purpose or functions as surveillance beyond the stated mandate.
+Occupancy and billing telemetry, which authenticates biological presence to release Medicaid/CalAIM capital for a given unit, is not a condition of housing. A resident who declines billing-linked monitoring is housed instead through the Philanthropic Set-Aside defined in `07_governance/CAPITAL.md`: a per-tower allocation of units funded independently of Medicaid billing and reserved for residents who decline occupancy telemetry. Declining billing telemetry means declining that specific funding mechanism, not declining housing.
+
+An independent civil liberties auditor signs off on all data collection protocols prior to any deployment, including the required size and funding source of the Philanthropic Set-Aside. This auditor determines what constitutes safety-critical monitoring. The review evaluates whether each data stream serves a verified engineering purpose or functions as surveillance beyond the stated mandate.
 
 ---
 
@@ -157,7 +159,7 @@ All four external audit outcomes are published in full in this repository. Parti
 
 ## 14. Pilot Validation Requirement
 
-A single, small-scale, independently evaluated pilot is mandatory before any full-scale multi-tower deployment proceeds. The pilot focuses on adaptive-reuse conversion and voluntary stabilization within a single Dunbar Pod. The pilot operates in partnership with an existing local operator possessing established clinical and residential capacity. An independent third-party evaluator measures outcomes at ninety, one hundred eighty, and three hundred sixty-five days. The seven binary verification metrics constituting the Singular Prototype Threshold must pass before network expansion initiates.
+A single, independently evaluated Singular Prototype is mandatory before any network-scale multi-tower deployment proceeds. The prototype is the three-pod tower configuration — 348 residents, 76 permanent staff, 185,000 gross square feet — specified in `05_reference_models/CAPITAL.md` and WP6. Three pods is the minimum scale at which the multi-pod fixed-cost amortization the architecture depends on can be observed and measured. The prototype focuses on adaptive-reuse conversion and voluntary stabilization, and operates in partnership with an existing local operator possessing established clinical and residential capacity. An independent third-party evaluator measures outcomes at ninety, one hundred eighty, and three hundred sixty-five days. The seven binary verification metrics constituting the Singular Prototype Threshold must pass before network expansion initiates.
 
 ---
 
