@@ -5,12 +5,27 @@ The following diagram illustrates the complete SDI architecture as a sequential 
 ```mermaid
 flowchart TD
     A["Street Homelessness"] --> B["Phase Zero: Ground Floor Intake Airlock"]
-    B --> C["Material Dignity Infrastructure (MDI)"]
-    C --> D["Biological Stabilization (≤ 72 hours)"]
-    D --> E["Relational Dignity Infrastructure (RDI)"]
-    E --> F["Dunbar-Scale Cohorts + Pod Stewards (1:7)"]
-    F --> G["Identity Capital Accumulation"]
+    
+    subgraph SP ["Singular Prototype ($36.9M, 3-Pod, 348 Residents)"]
+        B --> C["Material Dignity Infrastructure (MDI)"]
+        C --> D["Biological Stabilization (≤ 72 hours)"]
+        D --> E["Relational Dignity Infrastructure (RDI)"]
+        E --> F["Dunbar-Scale Cohorts + Pod Stewards (1:7)"]
+        F --> G["Identity Capital Accumulation"]
+    end
+
     G --> H["Economic Dignity Infrastructure (EDI)"]
+    
+    subgraph TELEMETRY ["Telemetry Doctrine"]
+        T1["Physical Occupancy Data"] --> T2{"Bifurcated Consent"}
+        T2 -->|"Safety-Critical"| T3["Asset Protection (Non-Negotiable)"]
+        T2 -->|"Billing Opt-In"| T4["Zero-Knowledge Billing Firewall"]
+        T2 -->|"Billing Opt-Out"| T5["Philanthropic Set-Aside"]
+    end
+    
+    T4 --> H
+    T5 --> H
+    
     H --> I["Cooperative Reintegration Mechanism"]
     I --> J["Return Deficit Bridged"]
     J --> K["Tenancy Bridge Guarantee"]
@@ -23,6 +38,7 @@ flowchart TD
     style H fill:#1a5276,color:#fff
     style L fill:#196F3D,color:#fff
     style M fill:#196F3D,color:#fff
+    style TELEMETRY fill:#2C3E50,color:#fff
 ```
 
 ---
@@ -43,6 +59,7 @@ flowchart LR
     ROOT --> GOV["07 Governance"]
     ROOT --> CONT["08 Contribution Guide"]
     ROOT --> GLOS["09 Glossary"]
+    ROOT --> CAP["10 Capital Architecture"]
 
     WP --> WP1["WP1: Foundational Theory"]
     WP --> WP2["WP2: Surplus Capacity"]
@@ -65,10 +82,12 @@ flowchart LR
     SPEC -.->|"gates"| WP
     WP -.->|"validated by"| VER
     REF -.->|"constrains"| WP
+    CAP -.->|"funds"| ROOT
 
     style ROOT fill:#2C3E50,color:#fff
     style WP fill:#1a5276,color:#fff
     style VER fill:#7D3C98,color:#fff
     style REF fill:#A04000,color:#fff
     style GLOS fill:#1E8449,color:#fff
+    style CAP fill:#8E44AD,color:#fff
 ```
