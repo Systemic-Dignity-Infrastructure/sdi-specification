@@ -16,7 +16,7 @@ SDI is a three-layer, sequentially dependent engineering specification. The laye
 
 **Layer 2: Relational Dignity Infrastructure (RDI)** provides the social architecture required for identity restoration. Dunbar-scale cohorts (groups of approximately seven residents) are governed by trained Pod Stewards at a 1:7 ratio. This layer closes the Housing First retention gap by preserving relational bonds through the housing transition rather than severing them at intake.
 
-**Layer 3: Economic Dignity Infrastructure (EDI)** establishes cooperative micro-economies to bridge the Return Deficit, defined as the wage and credentialing gap that prevents formerly homeless individuals from sustaining market-rate tenancy. The Tenancy Bridge Guarantee commits Medicaid waiver funding to underwrite the first twelve months of independent market-rate housing for graduating residents. A zero-knowledge billing firewall defends this capital by cryptographically matching the clinical identity against physical occupancy telemetry without violating optical privacy.
+**Layer 3: Economic Dignity Infrastructure (EDI)** establishes cooperative micro-economies to bridge the Return Deficit, defined as the wage and credentialing gap that prevents formerly homeless individuals from sustaining market-rate tenancy. The Tenancy Bridge Guarantee commits Medicaid waiver funding to underwrite the first twelve months of independent market-rate housing for graduating residents. A zero-knowledge billing firewall defends this capital by cryptographically matching the clinical identity against physical occupancy telemetry without violating optical privacy. A bifurcated telemetry doctrine governs the architecture: safety-critical telemetry is a non-negotiable condition of the building, but billing telemetry opt-out is protected via the Philanthropic Set-Aside, ensuring residents can decline monitoring without losing their housing.
 
 ### The Six-Paper Arc
 
@@ -29,7 +29,7 @@ The theoretical justification is articulated across six sequential working paper
 | [WP3](../04_working_papers/wp3_los_angeles_pipeline/) | Los Angeles Metropolitan Stabilization | Full intake pipeline; Phase Zero; Singular Prototype Threshold |
 | [WP4](../04_working_papers/wp4_human_layer/) | Relational Dignity Infrastructure | Pod Steward model; RDI Production Conditions; Verification Metrics |
 | [WP5](../04_working_papers/wp5_economic_dignity/) | Economic Dignity Infrastructure | Return Deficit; Cooperative Reintegration; Tenancy Bridge Guarantee |
-| [WP6](../04_working_papers/wp6_singular_prototype/) | The Singular Prototype | Dunbar cognitive limit; 85K sq ft physical plant floor; scaling economics |
+| [WP6](../04_working_papers/wp6_singular_prototype/) | The Singular Prototype | Dunbar cognitive limit; 185K sq ft physical plant floor; scaling economics |
 
 ### Intended Audience
 
@@ -63,7 +63,7 @@ SDI operates as an uncompromising engineering standard. Biological absolutes (me
 
 ### Current Maturity
 
-The architecture is at the **Singular Prototype Threshold** stage. The six-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a three-pod Singular Prototype (approx. 185,000 sq ft) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
+The architecture is at the **Singular Prototype Threshold** stage. The six-paper theoretical arc is complete. The engineering specification is published. The next phase is the deployment of a $36.9M, three-pod Singular Prototype (approx. 185,000 sq ft) to generate the prospective empirical data required to validate or falsify the combined MDI-RDI-EDI mechanism.
 
 ### Roadmap
 
