@@ -27,8 +27,7 @@ Economic Dignity Infrastructure, agentive selfhood, identity capital, return def
 ---
 
 ## Target eJournals
-1. egin{itemize}[nosep, before={space{-8pt}}, leftmargin=2em]
-2. Social Enterprise eJournal
+1. Social Enterprise eJournal
 
 ---
 
