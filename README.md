@@ -30,7 +30,7 @@ sdi-specification/
 ├── 01_vision/               The Uncompromising Engineering Standard
 ├── 02_architecture/         System Context and Repository Architecture diagrams
 ├── 03_specifications/       Municipal Pilot Specifications (gating criteria)
-├── 04_working_papers/       The six-paper theoretical arc (LaTeX + PDF)
+├── 04_working_papers/       The five-paper theoretical arc (LaTeX + PDF) and WP6 draft placeholder
 │   ├── wp1_stewardship_model/
 │   ├── wp2_surplus_capacity/
 │   ├── wp3_los_angeles_pipeline/
@@ -74,7 +74,7 @@ sdi-specification/
 The working papers are authored in LaTeX. To compile locally:
 
 ```bash
-make all      # Build all six papers
+make all      # Build all five papers
 make wp1      # Build WP1 only
 make clean    # Remove build artifacts
 make verify   # Check citation key resolution

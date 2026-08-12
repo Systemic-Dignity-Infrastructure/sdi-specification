@@ -48,7 +48,7 @@ To maintain the project's standard as a falsifiable engineering specification, d
 | Decision Type | Governing Entity | Process |
 | :--- | :--- | :--- |
 | **Technical Core Updates** | Principal Systems Architect | Unilateral integration based on empirical verification and data validation. |
-| **Capital Allocation & Grants** | Executive Director & Fiscal Sponsor | Subject to audit against the `PILOT-BUDGET.md` specifications. |
+| **Capital Allocation & Grants** | Executive Director & Fiscal Sponsor | Subject to audit against the `10_capital_architecture/README.md` specifications. |
 | **Pilot Implementation Adjustments** | Municipal Pilot Team & Executive Director | Requires adherence to the core Dignity Stack baseline. |
 
 ---
@@ -159,7 +159,7 @@ All four external audit outcomes are published in full in this repository. Parti
 
 ## 14. Pilot Validation Requirement
 
-A single, independently evaluated Singular Prototype is mandatory before any network-scale multi-tower deployment proceeds. The prototype is the **$36.9M**, three-pod tower configuration — 348 residents, 76 permanent staff, 185,000 gross square feet — specified in `05_reference_models/CAPITAL.md` and WP6. Three pods is the minimum scale at which the multi-pod fixed-cost amortization the architecture depends on can be observed and measured. The prototype focuses on adaptive-reuse conversion and voluntary stabilization, and operates in partnership with an existing local operator possessing established clinical and residential capacity. An independent third-party evaluator measures outcomes at ninety, one hundred eighty, and three hundred sixty-five days. The **Seven Binary Verification Metrics** constituting the Singular Prototype Threshold must pass; failure to clear these thresholds at 365 days triggers a mechanical refusal to deploy (a hard stop), permanently halting network expansion until the architecture is mathematically corrected.
+A single, independently evaluated Singular Prototype is mandatory before any network-scale multi-tower deployment proceeds. The prototype is the **$36.9M**, three-pod tower configuration — 348 residents, 76 permanent staff, 185,000 gross square feet — specified in `10_capital_architecture/README.md` and WP6. Three pods is the minimum scale at which the multi-pod fixed-cost amortization the architecture depends on can be observed and measured. The prototype focuses on adaptive-reuse conversion and voluntary stabilization, and operates in partnership with an existing local operator possessing established clinical and residential capacity. An independent third-party evaluator measures outcomes at ninety, one hundred eighty, and three hundred sixty-five days. The **Seven Binary Verification Metrics** constituting the Singular Prototype Threshold must pass; failure to clear these thresholds at 365 days triggers a mechanical refusal to deploy (a hard stop), permanently halting network expansion until the architecture is mathematically corrected.
 
 ---
 

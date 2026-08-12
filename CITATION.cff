@@ -60,3 +60,10 @@ references:
       - family-names: DiBella
         given-names: Charles J.
     year: 2026
+  - type: unpublished
+    title: "The Singular Prototype (Preliminary Draft)"
+    authors:
+      - family-names: DiBella
+        given-names: Charles J.
+    year: 2026
+    notes: "Future working paper; placeholder draft"

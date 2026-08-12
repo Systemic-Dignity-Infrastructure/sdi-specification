@@ -11,6 +11,8 @@
 #   make wp5      — Build WP5 only
 #   make clean    — Remove all build artifacts
 #   make verify   — Check that all citation keys resolve
+#
+# Note: WP6 (Singular Prototype) is currently a preliminary Markdown draft and is not buildable.
 # ════════════════════════════════════════════════════════════════════════════════
 
 LATEX   = pdflatex -interaction=nonstopmode -halt-on-error
@@ -32,7 +34,7 @@ WP4_DIR = $(WP_ROOT)/wp4_human_layer
 WP4_SRC = ssrn-6881539_Revised
 
 WP5_DIR = $(WP_ROOT)/wp5_economic_dignity
-WP5_SRC = wp5_economic_dignity_Revised
+WP5_SRC = ssrn-7177118_Revised
 
 .PHONY: all wp1 wp2 wp3 wp4 wp5 clean verify
 

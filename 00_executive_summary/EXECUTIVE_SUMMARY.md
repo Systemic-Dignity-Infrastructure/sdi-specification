@@ -25,7 +25,7 @@ The theoretical justification is articulated across six sequential working paper
 | Paper | Title | Core Contribution |
 |:------|:------|:------------------|
 | [WP1](../04_working_papers/wp1_stewardship_model/) | Foundational Theory | MDI tower architecture; Efficiency Surplus Model |
-| [WP2](../04_working_papers/wp2_surplus_volume/) | Structural Misalignment & Surplus Capacity | National Stability Utility; Auditable Infrastructure |
+| [WP2](../04_working_papers/wp2_surplus_capacity/) | Structural Misalignment & Surplus Capacity | National Stability Utility; Auditable Infrastructure |
 | [WP3](../04_working_papers/wp3_los_angeles_pipeline/) | Los Angeles Metropolitan Stabilization | Full intake pipeline; Phase Zero; Singular Prototype Threshold |
 | [WP4](../04_working_papers/wp4_human_layer/) | Relational Dignity Infrastructure | Pod Steward model; RDI Production Conditions; Verification Metrics |
 | [WP5](../04_working_papers/wp5_economic_dignity/) | Economic Dignity Infrastructure | Return Deficit; Cooperative Reintegration; Tenancy Bridge Guarantee |

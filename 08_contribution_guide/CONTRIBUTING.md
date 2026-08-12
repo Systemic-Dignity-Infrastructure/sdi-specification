@@ -1,6 +1,6 @@
 # Contributing to Material Dignity Infrastructure
 
-This repository contains five working papers that specify a structural architecture for reversing chronic unsheltered homelessness. Four papers are published on SSRN. The fifth paper is in development. All are maintained here as living documents and open to contribution.
+This repository contains five working papers that specify a structural architecture for reversing chronic unsheltered homelessness. Four papers are published on SSRN. The fifth paper is in development. A sixth paper (The Singular Prototype) is currently maintained as a preliminary placeholder draft. All are maintained here as living documents and open to contribution.
 
 ## What This Project Is
 
@@ -11,6 +11,7 @@ Material Dignity Infrastructure is a five-paper theoretical architecture coverin
 - **WP3**: Los Angeles Metropolitan Stabilization (street-to-home pipeline analysis)
 - **WP4**: Relational Dignity Infrastructure (the human layer)
 - **WP5**: Economic Dignity Infrastructure (cooperative reintegration and labor market reentry) [Draft]
+- **WP6**: The Singular Prototype [Preliminary Draft / Placeholder]
 
 The papers specify mechanics. They do not yet contain implementation data, financial projections at unit level, or site-specific adaptation guides. That work requires more minds than one. We invite data scientists, urban architects, and econometricians to audit the falsifiable claims made throughout the architecture and contribute data to close these gaps.
 
@@ -77,7 +78,7 @@ WP5 specifies the Tenancy Bridge Guarantee and Cooperative Reintegration Mechani
 
 Accepted pull requests are merged into the working repository. Contributors are credited in a CONTRIBUTORS.md file with their name (or handle), area of contribution, and date. Substantial contributions that alter the theoretical architecture will be acknowledged in subsequent paper revisions on SSRN.
 
-**Decisions are made via open-source consensus.** Per the [GOVERNANCE.md](./GOVERNANCE.md) protocol, this ensures that technical direction is driven by data validation and empirical verification. The Principal Systems Architect retains ultimate authority over the engineering core, ensuring your voice is heard and integrated via a generic administrative Git account without requiring public exposure.
+**Decisions are made via open-source consensus.** Per the [GOVERNANCE.md](../07_governance/GOVERNANCE.md) protocol, this ensures that technical direction is driven by data validation and empirical verification. The Principal Systems Architect retains ultimate authority over the engineering core, ensuring your voice is heard and integrated via a generic administrative Git account without requiring public exposure.
 
 This is not an academic journal. There is no traditional peer review gate; there is rigid engineering judgment regarding coherence, falsifiability, and quality. If a contribution is rejected, the empirical or logical reason will be stated in the pull request discussion.
 
