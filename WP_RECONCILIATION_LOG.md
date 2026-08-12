@@ -152,4 +152,13 @@ California State Auditor (April 2024) confirmed $24 billion spent on homelessnes
 - **Citation Added**: Added `calmatters_2026` to `ssrn-6211658_Citations.bib` to resolve LaTeX compilation errors.
 
 ## WP4: Human Layer (SSRN 6881539)
-*Pending — Stage 5*
+### Session A: Substance & Style (Stage 5)
+
+#### Stage 5 Findings and Adjustments
+- **Numeric Drift Resolution (Section 6)**: Identified severe legacy drift in Section 6 (Verification Metrics). The text previously relied on an outdated 154-resident pod scale, a 13-pod tower model, and the superseded \$33M-\$82M Efficiency Surplus range.
+- **Scale Standardization**: Refactored the retention math to strictly align with the standardized 116-resident / 3-pod (348 total residents) Singular Prototype scale established in WP3 and WP1. 
+- **Conservative Range Application**: Applied the full California State Auditor processing cost range (\$4,200 to \$8,700 per event, `ca_state_auditor_2021`) to a retention gain of 2 to 3 residents. This yields a conservative \$8,400 to \$26,100 avoided processing cost per pod, or \$25,200 to \$78,300 annually across the three-pod prototype.
+- **Causal Claim Softening**: Softened the causal relationship between administrative retention savings and the multi-million dollar Efficiency Surplus. Clarified that administrative savings act as "one input into" the surplus rather than the "primary variable driving" it, establishing a baseline economic contribution.
+- **Global Sweeps**: Verified WP4 contained the final forbidden word in the entire corpus ("rather than"). Fixed via strict style replacement ("Reimbursement rates are negotiated per plan. No binding statewide schedule applies."). Purged the final surviving legacy Efficiency Surplus figure from `09_glossary/Systemic_Dignity_Glossary.md`.
+
+**Result: Corpus fully aligned. All five working papers reconciled, standardized against the Singular Prototype architecture, and style-hardened.**
