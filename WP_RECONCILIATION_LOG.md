@@ -141,7 +141,15 @@ California State Auditor (April 2024) confirmed $24 billion spent on homelessnes
 - Reframed the One California Plaza site explicitly as the eventual 2,000-unit full build-out, with the 348-resident Singular Prototype serving as the initial deployment section gating further expansion.
 
 ## WP2: Surplus Capacity (SSRN 6211658)
-*Pending — Stage 4*
+
+### Session A: Substance (Stage 4)
+
+#### Stage 4 Findings and Adjustments
+- **No Deletions Required**: Verified that the manufactured housing/RV category established in WP2 is a valid, parallel category of surplus capacity. It does not contradict the commercial real estate tower architecture deployed in WP1/WP3. Sections 5 and 6 remain untouched.
+- **Added Series Structure Clarification**: Appended a paragraph to Section 5 clarifying that while WP2 establishes both commercial real estate and manufactured housing as valid surplus categories, subsequent papers in the series specifically operationalize the commercial tower category for dense metropolitan environments (like LA). The manufactured housing model remains valid for other contexts.
+- **Added Collateralized Infrastructure Equity Mechanism**: Added a paragraph to Section 9 (Transition Path) bridging the gap between the National Stability Utility's master-tenant (OpEx) model and WP1's claim about collateralized equity (CapEx). Explained that capturing the avoided $50,000/yr municipal emergency liability (`calmatters_2026`) via pay-for-success agreements allows the Utility to securitize this revenue stream into infrastructure equity, providing the financial backing for large-scale master leases.
+- **Governance Caveat**: Explicitly noted that the securitization structure is preliminary and subject to Independent Financial Review (per `GOVERNANCE.md \S11.B`).
+- **Citation Added**: Added `calmatters_2026` to `ssrn-6211658_Citations.bib` to resolve LaTeX compilation errors.
 
 ## WP4: Human Layer (SSRN 6881539)
 *Pending — Stage 5*
