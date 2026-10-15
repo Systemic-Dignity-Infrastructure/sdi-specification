@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+title: "Systemic Dignity Infrastructure: Engineering Specification"
+message: "If you use this framework, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: DiBella
+    given-names: Charles J.
+repository-code: "https://github.com/Systemic-Dignity-Infrastructure/sdi-specification"
+url: "https://github.com/Systemic-Dignity-Infrastructure/sdi-specification"
+abstract: >-
+  A comprehensive, sequentially dependent engineering specification for reversing
+  chronic unsheltered homelessness. The framework integrates three architectural
+  layers: Material Dignity Infrastructure (MDI), Relational Dignity Infrastructure
+  (RDI), and Economic Dignity Infrastructure (EDI) into a falsifiable pipeline
+  extending from street-level engagement through sovereign economic reentry.
+keywords:
+  - homelessness
+  - systems engineering
+  - social infrastructure
+  - housing policy
+  - cooperative economics
+  - dignity
+  - falsifiable architecture
+license: CC-BY-SA-4.0
+version: "1.0.0"
+date-released: "2026-10-15"
+references:
+  - type: article
+    title: "Distributed Stewardship Model: Foundational Theory"
+    authors:
+      - family-names: DiBella
+        given-names: Charles J.
+    year: 2026
+    notes: "Working Paper 1"
+  - type: article
+    title: "Structural Misalignment and Surplus Capacity"
+    authors:
+      - family-names: DiBella
+        given-names: Charles J.
+    year: 2026
+    notes: "Working Paper 2"
+  - type: article
+    title: "Los Angeles Metropolitan Stabilization Pipeline"
+    authors:
+      - family-names: DiBella
+        given-names: Charles J.
+    year: 2026
+    notes: "Working Paper 3"
+  - type: article
+    title: "Relational Dignity Infrastructure: The Human Layer"
+    authors:
+      - family-names: DiBella
+        given-names: Charles J.
+    year: 2026
+    notes: "Working Paper 4"
+  - type: article
+    title: "Economic Dignity Infrastructure"
+    authors:
+      - family-names: DiBella
+        given-names: Charles J.
+    year: 2026
+    notes: "Working Paper 5"
+  - type: article
+    title: "The Singular Prototype"
+    authors:
+      - family-names: DiBella
+        given-names: Charles J.
+    year: 2026
+    notes: "Working Paper 6"
