@@ -23,7 +23,7 @@ The state plans to use police teams to sweep people from city parks and sidewalk
 
 The Systemic Dignity Infrastructure rejects this coercive model because the science of human biology proves it will fail. A person sleeping on the street suffers from extreme sleep deprivation and constant physical danger. Their brain operates in continuous threat-monitoring mode. Demanding that someone pass behavioral tests or perform work while in this state is biologically impossible.
 
-SDI does not build remote 1,300-bed compounds, and it never uses police threats to force intake. Instead, SDI converts central urban commercial buildings into permanent residential towers housing 348 residents. Each person receives an Autonomous Life Maintenance Unit with a private lockable door, private bathroom, and acoustic insulation. Once biological safety is secured, residents join small, stable pods of 30 to 50 people guided by peer stewards. SDI treats stabilization as a biological sequence rather than a moral trial.
+SDI does not build remote 1,300-bed compounds, and it never uses police threats to force intake. Instead, SDI converts central urban commercial buildings into permanent residential towers housing 348 residents. Each person receives an Asset-Limited Modular Unit with a private lockable door, private bathroom, and acoustic insulation. Once biological safety is secured, residents join small, stable pods of 30 to 50 people guided by peer stewards. SDI treats stabilization as a biological sequence rather than a moral trial.
 
 ---
 
@@ -34,7 +34,7 @@ SDI does not build remote 1,300-bed compounds, and it never uses police threats 
 | **Operational Scale** | 1,300 beds centralized on a 16-acre industrial perimeter. | 348 residents per urban tower, partitioned into 30 to 50 person pods. |
 | **Geographic Siting** | Isolated airport buffer zone two miles from public transit. | Core urban transit corridors near commercial and medical networks. |
 | **Intake Mechanism** | Coercive police diversion ("jail or campus") and involuntary civil commitment. | Voluntary Non-Expiring Offer with zero law enforcement involvement. |
-| **Living Quarters** | Centralized barracks, shared dormitories, or outdoor tent pads. | Private Autonomous Life Maintenance Unit (ALMU) with private plumbing. |
+| **Living Quarters** | Centralized barracks, shared dormitories, or outdoor tent pads. | Private Asset-Limited Modular Unit (ALMU) with private plumbing. |
 | **Behavioral Prerequisite** | Work-conditioned housing requiring compliance and labor. | Unconditional biological stabilization (Phase Zero) as a baseline right. |
 | **Social Organization** | Corporate management consulting, Six Sigma metrics, and security guards. | Dunbar-scale cohorts supported by live-in peer Pod Stewards. |
 | **Capital Architecture** | Diverted federal housing grants and general state tax subsidies. | Self-funding Efficiency Surplus Model capturing health savings. |

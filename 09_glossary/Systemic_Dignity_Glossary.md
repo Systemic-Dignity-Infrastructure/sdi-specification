@@ -24,6 +24,8 @@
 
 - **Behavioral Calcification**: A chronic behavioral pattern in Pipeline C individuals characterized by hostility to outreach, conspiratorial framing of offers, repeated encampment re-establishment following displacement, and habituated preference for outdoor environments. Produced by long-duration untreated psychosis and years of institutional threat-perception training.
 
+- **Biological Stabilization**: The restorative physical phase (sustained sleep continuity, warm nutrition, complete hygiene, and acoustic quiet) required to halt physical deterioration before a person can engage in conversational assessment, legal decision-making, or relational attachment. Functions as Phase Zero of the MDI intake pipeline.
+
 - **Biophilic Infrastructure**: A two-tier integrated green system within the MDI tower that introduces living plant systems, natural light modulation, and organic material surfaces to produce neurological downregulation of threat-detection in residents. Functions as a passive environmental decompression mechanism supporting the relational engagement required for identity capital accumulation.
 
 - **Buffer Stock**: A deliberate and constant surplus of ready-to-use stabilization units maintained within the National Stability Utility distribution layer. The inverse of the asset economy's vacancy logic: in mechanical shelter architecture, an empty ready unit signals system health rather than speculative strategy.
@@ -199,6 +201,8 @@
 
 - **Relational Dignity Infrastructure (RDI)**: The second structural layer of the SDI architecture. The systematically designed, continuously operating social environment that produces ontological security, sustains identity capital accumulation, and maintains the social recognition of each resident as a specific named person with a particular history. Infrastructure in the technical sense: designed to specification, built into the administrative architecture, continuously maintained, and measured against defined performance thresholds.
 
+- **Relational Homelessness**: The condition of having zero reliable human relationships that do not involve financial transactions, administrative surveillance, or mutual survival exploitation. Characterized by the systemic severance of social sockets linking the individual to kinship networks, community, and personal identity.
+
 - **Relational Intake Protocol**: The MDI warm offer specification governing who makes the offer, what individual history it references, and how refusal is treated as a continuation of an ongoing relationship rather than a closed application. A clinical protocol with mechanics grounded in polyvagal theory and neuroception management, not just a communication preference.
 
 - **Return Deficit**: The aggregate, compounding reduction in labor market returns experienced by individuals carrying multiple co-occurring stigmatized institutional markers: extended employment gaps, criminal records, absent address history, absent professional references, and visible institutional histories, where the compound effect is multiplicative rather than additive. Produces effective labor market returns approaching zero regardless of effort invested. The primary theoretical target of Economic Dignity Infrastructure.
@@ -234,6 +238,14 @@
 - **Terminal Infrastructure Node**: The MDI characterization of the One California Plaza tower: the physical destination that the full Clinical Field Architecture feeds into. Cannot function as an intake mechanism for Pipeline C without the pre-admission field architecture operating 12-to-24 months in advance.
 
 - **Three Ps Infrastructure**: The structural elimination of three primary shelter refusal barriers: Pets (on-site facilities, veterinary nodes), Partners (co-location within the same pod), and Possessions (locked physical storage). These are the minimum administrative guarantees required to achieve high voluntary acceptance rates during the warm offer.
+
+- **TICP (Trauma-Informed Care Pathway)**: The staged operational sequence moving an unhoused individual from physical street exposure through nervous system stabilization to relational re-connection and economic participation. Comprises the complete three-tier developmental continuum (MDI biological stabilization → RDI relational reconnection → EDI economic agency) within which TIPC serves as the initial intake protocol.
+
+- **TIPC (Transitional Intervention and Placement Coordination)**: The protocol and administrative handshake coordinating real-time field intake, medical triage, and direct room placement without intermediate shelter bottlenecks. Matches named individuals from the by-name HMIS registry directly to dedicated ALMUs. Functions as the tactical field intake mechanism for the overarching TICP continuum.
+
+- **Trauma**: The accumulated physical and neurological injury caused by prolonged exposure to violence, sleep deprivation, environmental extremes, and abandonment. Within the SDI framework, trauma is understood not as a moral failing or abstract diagnostic label, but as measurable physical damage to the human nervous system requiring biological stabilization before behavioral interventions can function.
+
+- **Trauma-Informed Care**: A service methodology frequently deployed as an administrative slogan by agencies operating congregate warehouse shelters. In the SDI specification, genuine trauma-informed care requires constructing physical environments (STC 65 acoustic isolation, single-occupancy ALMUs, private wet baths, Dunbar-scale pods) that allow hyper-vigilant nervous systems to down-regulate threat alarms without surveillance or coercion.
 
 - **TVA Model (Tennessee Valley Authority)**: The federal administrative precedent cited in WP3 for the MDI Stewardship Authority's organizational architecture: a regionally scoped, federally chartered entity with administrative autonomy designed to execute infrastructure at the scale and speed that fragmented local governance cannot achieve.
 
